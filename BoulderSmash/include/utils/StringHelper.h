@@ -10,4 +10,29 @@ const char* StringHelper_CombineString(const char* str1, const char* str2)
     return str1 + *str2;
 }
 
+const char* SH_CombineStr(const char* str1, const char* str2)
+{
+    return str1 + *str2;
+}
+
+const char* C_Com_S(const char* str1, const char* str2)
+{
+    return str1 + *str2;
+}
+
+const char* SHCS(const char* str1, const char* str2)
+{
+    return str1 + *str2;
+}
+
+const char* CS_S(const char* str1, const char* str2)
+{
+    return str1 + *str2;
+}
+
+const char* CS(const char* str1, const char* str2)
+{
+    return str1 + *str2;
+}
+
 #endif
