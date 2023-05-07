@@ -1,0 +1,1 @@
+gcc -Wall .\BoulderSmash\Main.c .\glad.c -I .\Libraries\include\ -I .\BoulderSmash\include\ -lopengl32 -lglfw3 -lgdi32 -lkernel32 -luser32 -o build\BoulderSmash.exe
